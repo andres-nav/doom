@@ -12,4 +12,4 @@
  ;; If there is more than one, they won't work right.
  )
 
-(set-frame-font "JetBrainsMono Nerd Font Mono 10" nil t)
+(set-frame-font "JetBrainsMono Nerd Font 10" nil t)
